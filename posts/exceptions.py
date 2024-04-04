@@ -1,0 +1,2 @@
+class ThreadAlreadyExists(Exception):
+    pass
