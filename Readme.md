@@ -8,7 +8,7 @@ Follow these steps to install and run the application:
 
 1. Clone this repository to your local machine using the following command: 
     ```
-    git clone https://github.com/<your-repo>
+    git clone https://github.com/danovdenys/simple_chat
     ```
 2. Navigate to the project directory:
     ```
